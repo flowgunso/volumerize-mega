@@ -1,8 +1,11 @@
 # Blacklabelops Volumerize x Danielquinn Mega
 
-[![Docker Automated build](https://img.shields.io/docker/automated/flowgunso/volumerize-mega)](https://hub.docker.com/r/flowgunso/volumerize-mega/tags)
-[![Open Issues](https://img.shields.io/github/issues/flowgunso/volumerize-mega.svg)](https://github.com/flowgunso/volumerize-mega/issues) [![Stars on GitHub](https://img.shields.io/github/stars/flowgunso/volumerize-mega.svg)](https://github.com/flowgunso/volumerize-mega/stargazers)
-[![Docker Stars](https://img.shields.io/docker/stars/flowgunso/volumerize-mega.svg)](https://hub.docker.com/r/flowgunso/volumerize-mega/) [![Docker Pulls](https://img.shields.io/docker/pulls/flowgunso/volumerize-mega.svg)](https://hub.docker.com/r/flowgunso/volumerize-mega/)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/flowgunso/volumerize-mega)](https://hub.docker.com/r/flowgunso/volumerize-mega/tags)
+[![Docker Stars](https://img.shields.io/docker/stars/flowgunso/volumerize-mega.svg)](https://hub.docker.com/r/flowgunso/volumerize-mega/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/flowgunso/volumerize-mega.svg)](https://hub.docker.com/r/flowgunso/volumerize-mega/)
+[![Docker Image Size (latest)](https://img.shields.io/docker/image-size/flowgunso/volumerize-mega/latest?label=docker%20image%20size)](https://hub.docker.com/r/flowgunso/volumerize-mega/)
+[![Github Issues](https://img.shields.io/github/issues/flowgunso/volumerize-mega.svg?label=github%20issues)](https://github.com/flowgunso/volumerize-mega/issues)
+[![Github Stars](https://img.shields.io/github/stars/flowgunso/volumerize-mega.svg?label=github%20stars)](https://github.com/flowgunso/volumerize-mega/stargazers)
 
 <!--[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/flowgunso/volumerize-mega/master/dc-pwd.yml)-->
 
