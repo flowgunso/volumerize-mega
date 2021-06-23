@@ -4,7 +4,7 @@
 [![Open Issues](https://img.shields.io/github/issues/flowgunso/volumerize-mega.svg)](https://github.com/flowgunso/volumerize-mega/issues) [![Stars on GitHub](https://img.shields.io/github/stars/flowgunso/volumerize-mega.svg)](https://github.com/flowgunso/volumerize-mega/stargazers)
 [![Docker Stars](https://img.shields.io/docker/stars/flowgunso/volumerize-mega.svg)](https://hub.docker.com/r/flowgunso/volumerize-mega/) [![Docker Pulls](https://img.shields.io/docker/pulls/flowgunso/volumerize-mega.svg)](https://hub.docker.com/r/flowgunso/volumerize-mega/)
 
-[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/flowgunso/volumerize-mega/master/dc-pwd.yml)
+<!--[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/flowgunso/volumerize-mega/master/dc-pwd.yml)-->
 
 Blacklabelops backup and restore solution for Docker volume backups. It is based on the command line tool Duplicity. Dockerized and Parameterized for easier use and configuration.
 
