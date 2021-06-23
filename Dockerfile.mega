@@ -1,0 +1,21 @@
+FROM danielquinn/megacmd-alpine AS megacmd
+
+FROM blacklabelops/volumerize
+
+RUN apk add --repository https://dl-cdn.alpinelinux.org/alpine/edge/testing --update --no-cache \
+    c-ares \
+    crypto++ \
+    libcurl \
+    libtool \
+    libuv \
+    libpcrecpp \
+    libsodium \
+    sqlite-libs \
+    sqlite \
+    pcre \
+    readline \
+    freeimage \
+    zlib
+
+COPY --from=megacmd /usr/local/bin/mega-* /usr/local/bin/
+COPY --from=megacmd /usr/local/lib/libmega* /usr/local/lib/
