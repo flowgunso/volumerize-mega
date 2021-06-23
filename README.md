@@ -28,6 +28,7 @@ Supported backends:
 * Google Drive
 * ssh/scp
 * rsync
+* Mega
 
 and many more: [Duplicity Supported Backends](http://duplicity.nongnu.org/index.html)
 
@@ -42,6 +43,8 @@ Amazon S3: [Readme](https://github.com/flowgunso/volumerize-mega/tree/master/bac
 Dropbox: [Readme](https://github.com/flowgunso/volumerize-mega/tree/master/backends/Dropbox)
 
 Google Drive: [Readme](https://github.com/flowgunso/volumerize-mega/tree/master/backends/GoogleDrive)
+
+Mega: [Readme](http://duplicity.nongnu.org/vers8/duplicity.1.html#sect7) Mega.nz section
 
 # Make It Short
 
