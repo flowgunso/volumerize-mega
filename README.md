@@ -1,4 +1,4 @@
-# Blacklabelops Volumerize
+# Blacklabelops Volumerize x Danielquinn Mega
 
 [![Circle CI](https://circleci.com/gh/blacklabelops/volumerize.svg?style=shield)](https://circleci.com/gh/blacklabelops/volumerize)
 [![Open Issues](https://img.shields.io/github/issues/blacklabelops/volumerize.svg)](https://github.com/blacklabelops/volumerize/issues) [![Stars on GitHub](https://img.shields.io/github/stars/blacklabelops/volumerize.svg)](https://github.com/blacklabelops/volumerize/stargazers)
