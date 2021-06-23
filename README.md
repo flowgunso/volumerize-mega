@@ -1,6 +1,6 @@
 # Blacklabelops Volumerize x Danielquinn Mega
 
-[![Circle CI](https://circleci.com/gh/flowgunso/volumerize-mega.svg?style=shield)](https://circleci.com/gh/flowgunso/volumerize-mega)
+[![Docker Automated build](https://img.shields.io/docker/automated/flowgunso/volumerize-mega)](https://hub.docker.com/r/flowgunso/volumerize-mega/tags)
 [![Open Issues](https://img.shields.io/github/issues/flowgunso/volumerize-mega.svg)](https://github.com/flowgunso/volumerize-mega/issues) [![Stars on GitHub](https://img.shields.io/github/stars/flowgunso/volumerize-mega.svg)](https://github.com/flowgunso/volumerize-mega/stargazers)
 [![Docker Stars](https://img.shields.io/docker/stars/flowgunso/volumerize-mega.svg)](https://hub.docker.com/r/flowgunso/volumerize-mega/) [![Docker Pulls](https://img.shields.io/docker/pulls/flowgunso/volumerize-mega.svg)](https://hub.docker.com/r/flowgunso/volumerize-mega/)
 
