@@ -49,7 +49,7 @@ Dropbox: [Readme](https://github.com/flowgunso/volumerize-mega/tree/master/backe
 
 Google Drive: [Readme](https://github.com/flowgunso/volumerize-mega/tree/master/backends/GoogleDrive)
 
-Mega: [Readme](http://duplicity.nongnu.org/vers8/duplicity.1.html#sect7) Mega.nz section
+Mega: [Readme](https://github.com/flowgunso/volumerize-mega/tree/master/backends/Mega)
 
 # Make It Short
 
