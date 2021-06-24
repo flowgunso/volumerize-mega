@@ -9,7 +9,9 @@
 
 <!--[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/flowgunso/volumerize-mega/master/dc-pwd.yml)-->
 
-_Use both [blacklabelops/volumerize](https://hub.docker.com/r/blacklabelops/volumerize) and [danielquinn/megacmd-alpine](https://hub.docker.com/r/danielquinn/megacmd-alpine) to enable the mega.nz backend within [flowgunso/volumerize-mega](https://hub.docker.com/r/flowgunso/volumerize-mega). As of now, only `megav3://` have been tested, but `megav2://` should work fine. `megav1://` does not work since `megatools` is not in to the Docker image._
+Use both [blacklabelops/volumerize](https://hub.docker.com/r/blacklabelops/volumerize) and [danielquinn/megacmd-alpine](https://hub.docker.com/r/danielquinn/megacmd-alpine) to enable the mega.nz backend within [flowgunso/volumerize-mega](https://hub.docker.com/r/flowgunso/volumerize-mega).
+
+---
 
 Blacklabelops backup and restore solution for Docker volume backups. It is based on the command line tool Duplicity. Dockerized and Parameterized for easier use and configuration.
 
